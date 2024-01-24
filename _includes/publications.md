@@ -1,6 +1,6 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications</h2>
 
-<h4>A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)</h4>
+A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)
 
 <div class="publications">
 <ol class="bibliography">

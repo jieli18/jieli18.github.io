@@ -10,6 +10,8 @@ From Dec 2021 to Jul 2022, I was a visiting PhD student in the <a href="https://
 
 {% include_relative _includes/publications.md %}
 
+A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)
+
 {% include_relative _includes/projects.md %}
 
 ## Awards

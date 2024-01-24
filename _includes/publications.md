@@ -1,5 +1,3 @@
-<h4 style="margin:0 10px 0;">A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)</h4>
-
 <div class="publications">
 <ol class="bibliography">
 

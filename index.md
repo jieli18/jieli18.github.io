@@ -8,6 +8,7 @@ Previously, I received a B.E. in Automotive Engineering and a B.S. in Mathematic
 From Dec 2021 to Jul 2022, I was a visiting PhD student in the <a href="https://cel.mech.ubc.ca/" target="_blank">Control Engineering Laboratory</a> at the University of British Columbia, advised by <a href="https://mech.ubc.ca/ryozo-nagamune/" target="_blank">Prof. Ryozo Nagamune</a>. 
 
 ## Recent Publications
+A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)
 {% include_relative _includes/publications.md %}
 
 ## Projects

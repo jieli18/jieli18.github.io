@@ -1,4 +1,5 @@
 <h2 id="publications" style="margin: 2px 0px -15px;">Recent Publications</h2>
+<h3>A full list of publications is <a href="assets/files/publications.pdf" target="_blank">here</a>. (* indicates equal contribution.)</h3>
 
 <div class="publications">
 <ol class="bibliography">
@@ -48,7 +49,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Optimization Landscape of Policy Gradient Methods for Discrete-Time Static Output Feedback</div>
-    <div class="author">Jingliang Duan, Jie Li, Xuyang Chen, Kai Zhao, Shengbo Eben Li, Lin Zhao</div>
+    <div class="author">Jingliang Duan*, Jie Li*, Xuyang Chen, Kai Zhao, Shengbo Eben Li, Lin Zhao</div>
     <div class="periodical">IEEE Transactions on Cybernetics, 2023</div>
     <div class="links">
       <a href="assets/files/Optimization_Landscape_of_Policy_Gradient_Methods_for_Discrete-Time_Static_Output_Feedback.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
@@ -85,7 +86,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Relaxed Actor-Critic With Convergence Guarantees for Continuous-Time Optimal Control of Nonlinear Systems</div>
-    <div class="author">Jingliang Duan, Jie Li, Qiang Ge, Shengbo Eben Li, Monimoy Bujarbaruah, Fei Ma, Dezhao Zhang</div>
+    <div class="author">Jingliang Duan*, Jie Li*, Qiang Ge, Shengbo Eben Li, Monimoy Bujarbaruah, Fei Ma, Dezhao Zhang</div>
     <div class="periodical">IEEE Transactions on Intelligent Vehicles, 2023</div>
     <div class="links">
       <a href="assets/files/Relaxed_Actor-Critic_With_Convergence_Guarantees_for_Continuous-Time_Optimal_Control_of_Nonlinear_Systems.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>

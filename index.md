@@ -13,7 +13,7 @@ From Dec 2021 to Jul 2022, I was a visiting PhD student in the <a href="https://
 {% include_relative _includes/projects.md %}
 
 ## Awards
-- **[Jul. 2018]** Beijing Distinguished Undergraduate Student
+- **[Jul 2018]** Beijing Distinguished Undergraduate Student
 
 {% include_relative _includes/services.md %}
 

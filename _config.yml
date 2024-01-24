@@ -14,8 +14,6 @@ email: jie-li18@mails.tsinghua.edu.cn
 address: 30 Shuangqing Rd, Haidian District, Beijing, 100084, China
 address_link: https://www.google.com/maps/place/Tsinghua+University/@39.9996674,116.323869,17z/data=!4m6!3m5!1s0x35f0541fa61e3c8f:0xd95a50fee0e0e2c9!8m2!3d39.9996674!4d116.3264439!16zL20vMGprc20?entry=ttu
 
-
-
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
 keywords: minimal light
@@ -33,7 +31,7 @@ github_link: https://github.com/jieli18
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/avatar.jpg
-logo: ./assets/img/logo.png
+# logo: ./assets/img/logo.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 

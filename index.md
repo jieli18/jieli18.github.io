@@ -10,9 +10,9 @@ I am a final-year Ph.D. student advised by <a href="http://www.svm.tsinghua.edu.
 - **[Jul. 2018]** Beijing Distinguished Undergraduate Student
 
 
-<!-- {% include_relative _includes/publications.md %} -->
+{% include_relative _includes/publications.md %}
 
-<!-- {% include_relative _includes/projects.md %} -->
+{% include_relative _includes/projects.md %}
 
-<!-- {% include_relative _includes/services.md %} -->
+{% include_relative _includes/services.md %}
 

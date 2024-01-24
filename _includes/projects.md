@@ -12,7 +12,7 @@
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Networked Modeling and Cooperative Control of Connected and Automated Electric Vehicles</div>
-    <div class="periodical">Aug 2023</div>
+    <div class="periodical">Nov 2020</div>
   </div>
 </div>
 </li>

@@ -15,7 +15,8 @@ A full list of publications is <a href="assets/files/publications.pdf" target="_
 {% include_relative _includes/projects.md %}
 
 ## Awards
-- **[Jul 2018]** Beijing Distinguished Undergraduate Student
+- **[Jul 2018]** Outstanding Undergraduate Student in Beijing
+- **[Jul 2018]** Excellent Undergraduate Award of Tsinghua University
 
 ## Services
 {% include_relative _includes/services.md %}

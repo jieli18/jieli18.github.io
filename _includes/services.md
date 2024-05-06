@@ -1,19 +1,18 @@
-<!-- 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
-<ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul> -->
-
-<!-- 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><a href="https://www.frontiersin.org" target="_blank"> Frontiers in Surgery </a></li>
-  <li><a href="https://www.jmcp.org" target="_blank"> Journal of Managed Care & Specialty Pharmacy </a></li>
-</ul> -->
+  <li> IEEE Transactions on Automatic Control </li>
+  <li> IEEE Transactions on Neural Networks and Learning Systems </li>
+</ul>
+
+<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
+
+<ul style="margin:0 0 5px;">
+  <li> IEEE International Conference on Intelligent Transportation (ITSC) </li>
+  <li> Modeling, Estimation and Control Conference (MECC) </li>
+  <li> IEEE International Conference on Control & Automation (ICCA) </li>
+</ul>
 
 <h4 style="margin:0 10px 0;">Membership & Activities</h4>
 

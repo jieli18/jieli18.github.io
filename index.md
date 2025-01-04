@@ -16,8 +16,9 @@ A full list of publications is <a href="assets/files/publication_list.pdf" targe
 
 ## Awards
 - **[Jul 2018]** Outstanding Undergraduate Student in Beijing
-- **[Jul 2018]** Excellent Undergraduate Award of Tsinghua University
+- **[Jul 2018]** Excellent Undergraduate Award, Tsinghua University
 - **[Jun 2024]** Excellent Presentation Award, the Second National Doctoral Forum by China Society of Automotive Engineers
+- **[Nov 2024]** Nomination for Distinguished Doctoral Dissertation Award, China Society of Automotive Engineers
 
 ## Services
 {% include_relative _includes/services.md %}

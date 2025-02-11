@@ -11,9 +11,10 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Relaxed Policy Iteration Algorithm for Nonlinear Zero-Sum Games with Application to H-infinity Control</div>
     <div class="author">Jie Li, Shengbo Eben Li, Jingliang Duan, Yao Lyu, Wenjun Zou, Yang Guan, Yuming Yin</div>
-    <div class="periodical">IEEE Transactions on Automatic Control, 2023</div>
+    <div class="periodical">IEEE Transactions on Automatic Control, 2024</div>
     <div class="links">
       <a href="assets/files/Relaxed_Policy_Iteration_Algorithm_for_Nonlinear_Zero-Sum_Games_With_Application_to_H-Infinity_Control.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
+      <a href="https://github.com/jieli18/rpi" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
     </div>
   </div>
 </div>
@@ -29,9 +30,10 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title">Robust Approximate Dynamic Programming for Nonlinear Systems With Both Model Error and External Disturbance</div>
     <div class="author">Jie Li, Ryozo Nagamune, Yuhang Zhang, Shengbo Eben Li</div>
-    <div class="periodical">IEEE Transactions on Neural Networks and Learning Systems, 2023</div>
+    <div class="periodical">IEEE Transactions on Neural Networks and Learning Systems, 2025</div>
     <div class="links">
       <a href="assets/files/Robust_Approximate_Dynamic_Programming_for_Nonlinear_Systems_With_Both_Model_Error_and_External_Disturbance.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
+      <a href="https://github.com/jieli18/RobustADP" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">code</a>
     </div>
   </div>
 </div>

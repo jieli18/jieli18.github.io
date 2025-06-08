@@ -5,6 +5,20 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/LIMFormer.gif" class="teaser img-fluid z-depth-1">
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title">Robust and Generalizable Robot Locomotion in Dynamic and Uncertain Environment</div>
+    <div class="periodical">Nov 2024</div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/real_vehicle_test.gif" class="teaser img-fluid z-depth-1">
   </div>
 

@@ -7,6 +7,8 @@ I received my Ph.D. from Tsinghua University, advised by <a href="http://www.svm
 Previously, I received a B.E. in Automotive Engineering and a B.S. in Mathematics and Applied Mathematics (Double Degree) from Tsinghua University in 2018. 
 From Dec 2021 to Jul 2022, I was a visiting PhD student in the <a href="https://cel.mech.ubc.ca/" target="_blank">Control Engineering Laboratory</a> at the University of British Columbia, advised by <a href="https://mech.ubc.ca/ryozo-nagamune/" target="_blank">Prof. Ryozo Nagamune</a>. 
 
+有意向加入课题组的本科生、研究生，请阅读<a href="https://scntbk2gcbe6.feishu.cn/wiki/WItmwRXt1ifXbSkkXHhckqMhnBb" target="_blank">招生详细说明</a>。
+
 ## Recent Publications
 A full list of publications is <a href="assets/files/publication_list.pdf" target="_blank">here</a>. (# indicates equal contribution.)
 {% include_relative _includes/publications.md %}

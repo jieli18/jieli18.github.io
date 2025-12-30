@@ -5,6 +5,8 @@
   <li> IEEE Transactions on Automatic Control </li>
   <li> IEEE Transactions on Neural Networks and Learning Systems </li>
   <li> IEEE Transactions on Cybernetics </li>
+  <li> IEEE Transactions on Multimedia </li>
+  <li> IEEE Transactions on Intelligent Transportation Systems </li>
   <li> Expert Systems with Applications </li>
   <li> Information Sciences </li>
   <li> IEEE Transactions on Circuits and Systems II: Express Briefs </li>

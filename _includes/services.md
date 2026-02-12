@@ -5,6 +5,7 @@
   <li> IEEE Transactions on Automatic Control </li>
   <li> IEEE Transactions on Neural Networks and Learning Systems </li>
   <li> IEEE Transactions on Cybernetics </li>
+  <li> IEEE Transactions on Systems, Man and Cybernetics: Systems </li>
   <li> IEEE Transactions on Multimedia </li>
   <li> IEEE Transactions on Intelligent Transportation Systems </li>
   <li> Expert Systems with Applications </li>
@@ -16,6 +17,7 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
+  <li> International Conference on Machine Learning (ICML) </li>
   <li> International Conference on Learning Representations (ICLR) </li>
   <li> IEEE Conference on Decision and Control (CDC) </li>
   <li> IEEE International Conference on Intelligent Transportation (ITSC) </li>

@@ -8,6 +8,7 @@
   <li> IEEE Transactions on Systems, Man and Cybernetics: Systems </li>
   <li> IEEE Transactions on Multimedia </li>
   <li> IEEE Transactions on Intelligent Transportation Systems </li>
+  <li> Advanced Engineering Informatics </li>
   <li> Expert Systems with Applications </li>
   <li> Information Sciences </li>
   <li> IEEE Transactions on Circuits and Systems II: Express Briefs </li>
@@ -17,8 +18,9 @@
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 
 <ul style="margin:0 0 20px;">
-  <li> International Conference on Machine Learning (ICML) </li>
+  <li> International Conference on Machine Learning (ICML): Silver Reviewer Award </li>
   <li> International Conference on Learning Representations (ICLR) </li>
+  <li> Neural Information Processing Systems (NeurIPS) </li>
   <li> IEEE Conference on Decision and Control (CDC) </li>
   <li> IEEE International Conference on Intelligent Transportation (ITSC) </li>
   <li> Modeling, Estimation and Control Conference (MECC) </li>
